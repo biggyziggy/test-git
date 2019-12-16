@@ -1,1 +1,3 @@
 Some code here
+
+Added a function
