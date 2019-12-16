@@ -1,1 +1,3 @@
 functions code
+
+New function
